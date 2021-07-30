@@ -1,2 +1,1 @@
-# Digital-Wallet
-A fully functional digital wallet. Consist of CRUD operation. Some functionalities are Singup, Signup, Creating session, Login after first time using AWS token. Verifying every action using toke, Transfer/deposit/withdraw money from wallet, Currency converter. Send all transaction using Sendgrid adapter as PDF format. It has other saction form which an Admin add product's detais and user can purchase those products using the Wallet.
+# sw-service
